@@ -1,0 +1,1 @@
+/home/gabriel/front-end/flutter_repository_AItodolist/build/app/intermediates/cxx/Debug/3d446v4n/obj/arm64-v8a

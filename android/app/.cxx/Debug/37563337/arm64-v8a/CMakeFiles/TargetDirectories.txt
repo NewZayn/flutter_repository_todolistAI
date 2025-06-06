@@ -1,0 +1,2 @@
+/home/gabriel/front-end/flutter_repository_AItodolist/android/app/.cxx/Debug/37563337/arm64-v8a/CMakeFiles/edit_cache.dir
+/home/gabriel/front-end/flutter_repository_AItodolist/android/app/.cxx/Debug/37563337/arm64-v8a/CMakeFiles/rebuild_cache.dir
